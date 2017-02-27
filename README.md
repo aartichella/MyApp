@@ -8,3 +8,6 @@ The rules for the game to progress are as mentioned below:
 	Any live cell with more than three live neighbours dies, as if by overpopulation.
 	Any dead cell with exactly three live neighbours becomes a live cell, as if by reproduction.
   	If a neighbor’s position is outside the grid, then we do not consider that neighbor as existent.
+	
+![](Screenshot1.png?raw=true)
+![](Screenshot2.png?raw=true)
